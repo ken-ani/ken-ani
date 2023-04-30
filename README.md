@@ -41,10 +41,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 🔥 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ken-kay&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### 🔥 My Top Languages :
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -52,6 +52,8 @@
 
 <!--
 **ken-kay/ken-kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ken-kay&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
