@@ -24,8 +24,8 @@
 </div>
 
 ### 👯 About Me :
-- 🔭 I’m currently working on Freelance Web development
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working as Full-Stack Developer
+- 🌱 I’m currently learning Elixir
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenani-kenani/)
 
 ### :hammer_and_wrench: Languages and Tools :
