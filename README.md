@@ -41,20 +41,40 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 🔥 My Top Languages :
+### ⚡ Top Languages :
 
-
+<div id="stats" align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenani-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
-[![kenani-dev's github stats](https://github-readme-stats.vercel.app/api?username=kenani-dev&show_icons=true&theme=default)](https://github.com/kenani-dev/)
+### 🔥 Streaks :
+<div id="streak" align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenani-dev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+### 💭 Work In Progress :
+<div id="grade" align="center">
+  
+[![kenani-dev's github stats](https://github-readme-stats.vercel.app/api?username=kenani-dev&show_icons=true&theme=merko)](https://github.com/kenani-dev/)
+
+</div>
+
+<!-- MEDIUM blog
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=kenani_&type=horizontal&limit=2)](https://medium.com/@kenani_)
+-->
+
+
 
 
 <!--
-**ken-kay/ken-kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![kenani-dev's github stats](https://github-readme-stats.vercel.app/api?username=kenani-dev&show_icons=true&theme=default)](https://github.com/kenani-dev/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ken-kay&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenani-dev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFmMDdiYmVkOTEzODU5MzU4ODMwMDYxZTlhNDQyY2RhZjQ3NTA5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/j7k6JOp8LufhXspVfu/giphy.gif" width="100"/>
