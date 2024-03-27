@@ -10,7 +10,7 @@
   <a href="https://dribbble.com/kenkay_">
     <img src="https://img.shields.io/badge/Dribbble-red?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
   </a>
-  <a href="https://www.behance.net/kenanikenani">
+  <a href="https://www.behance.net/kenani_">
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
