@@ -23,6 +23,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM0ODJiMWEyNWVhOTI4ZmIyOTU0MDhiYjZhNmNmOTYxODUzMWIzMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
 
+
+<div id="ko-fi" align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U8LCSD4)
+
+</div>
+
 ### 👯 About Me :
 - 🔭 I’m currently working as Full-Stack Developer at <a href="https://value8.group">Value 8</a>
 - 🌱 I’m currently learning Elixir
