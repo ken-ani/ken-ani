@@ -52,21 +52,21 @@
 
 <div id="stats" align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenani-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-ani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ### 🔥 Streaks :
 <div id="streak" align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenani-dev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ken-ani&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ### 💭 Work In Progress :
 <div id="grade" align="center">
   
-[![kenani-dev's github stats](https://github-readme-stats.vercel.app/api?username=kenani-dev&show_icons=true&theme=merko)](https://github.com/kenani-dev/)
+[![kenani-dev's github stats](https://github-readme-stats.vercel.app/api?username=ken-ani&show_icons=true&theme=merko)](https://github.com/kenani-dev/)
 
 </div>
 
