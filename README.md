@@ -66,7 +66,7 @@
 ### 💭 Work In Progress :
 <div id="grade" align="center">
   
-[![kenani-dev's github stats](https://github-readme-stats.vercel.app/api?username=ken-ani&show_icons=true&theme=merko)](https://github.com/kenani-dev/)
+[![kenani-dev's github stats](https://github-readme-stats.vercel.app/api?username=ken-ani&show_icons=true&theme=merko)](https://github.com/ken-ani/)
 
 </div>
 
